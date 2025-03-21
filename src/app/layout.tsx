@@ -3,7 +3,7 @@ import { Geist, Geist_Mono, Roboto } from "next/font/google";
 import { WEBSITE_NAME,META_SEO_DASHBOARD } from "@/config/constant";
 
 import "./globals.css";
-import { Navbar } from "@/components/Navbar";
+import Navbar from "@/components/Navbar";
 import { BodyContainer } from "@/components/BodyContainer";
 import {Footer} from "@/components/layouts/Footer";
 import BlockSidebar from "@/components/layouts/BlockSidebar";
