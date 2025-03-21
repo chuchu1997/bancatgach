@@ -11,7 +11,7 @@ const items = [
   // { title: "Messager", icon: "/messager.jpg" },
 ];
 const BlockSidebar = () => {
-  const [sort, setSort] = useState(false);
+  const [sort, setSort] = useState(true);
   return (
     <div
       className={`sort-dock bg-red fixed right-0 top-40 ${
