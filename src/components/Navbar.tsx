@@ -13,8 +13,8 @@ export const Navbar = () => {
       <div className=" bg-gray-100 py-2 hidden sm:block">
         <div className = "container mx-auto">
           <div className = "flex items-center justify-between">
-          <h3 className = "italic font-base">Chào mừng bạn đến với website của chúng tôi</h3>
-          <ButtonPhoneCall />
+          <h3 className = "italic font-base">Tổng đài tư vấn: 0973926139 - 0973976139
+          </h3>
           </div>
         </div>
    
