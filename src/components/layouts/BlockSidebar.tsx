@@ -8,6 +8,8 @@ const items = [
   // },
   { title: "Chat Zalo", icon: "/images/socials/zalo.png", href: `http://zalo.me/${PHONE_NUMBER}` },
   { title: "Gọi điện", icon: "/images/socials/phone.png", href: `tel:${PHONE_NUMBER}` },
+  { title: "Facebook", icon: "/images/socials/facebook.png", href: `https://www.facebook.com/bancatgachdaytay` },
+
   // { title: "Messager", icon: "/messager.jpg" },
 ];
 const BlockSidebar = () => {
