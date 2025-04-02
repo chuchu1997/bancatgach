@@ -3,7 +3,6 @@
 
 import Image from "next/image"
 
-import { ButtonPhoneCall } from "./ButtonPhoneCall"
 
 
 
@@ -13,8 +12,10 @@ export const Navbar = () => {
       <div className=" bg-gray-100 py-2 hidden sm:block">
         <div className = "container mx-auto">
           <div className = "flex items-center justify-between">
-          <h3 className = "italic font-base">Tổng đài tư vấn: 0973926139 - 0973976139
+
+          <h3 className = "text-black  italic font-semibold transition-transform duration-200 hover:scale-[1.2]">0973 926 139 - 0973 976 139
           </h3>
+       
           </div>
         </div>
    
