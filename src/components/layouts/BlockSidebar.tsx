@@ -7,7 +7,6 @@ import { PHONE_NUMBER } from "@/constants/phone";
 const items = [
   // },
   { title: "Chat Zalo", icon: "/images/socials/zalo.png", href: `http://zalo.me/${PHONE_NUMBER}` },
-  { title: `${PHONE_NUMBER}`, icon: "/images/socials/phone.png", href: `tel:${PHONE_NUMBER}` },
   // { title: "Messager", icon: "/messager.jpg" },
   { title: "Facebook", icon: "/images/socials/facebook.png", href: `https://www.facebook.com/bancatgachdaytay` },
   { title: "Tiktok", icon: "/images/socials/tiktok.png", href: `https://www.tiktok.com/@bancatgach` },
