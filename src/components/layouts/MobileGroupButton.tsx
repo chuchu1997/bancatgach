@@ -8,7 +8,7 @@ export const MobileGroupButton = ()=>{
     <Button asChild className="flex-1 flex items-center gap-2 bg-accent">
     <a href={`tel:${PHONE_NUMBER}`}>
       <PhoneCall size={18} />
-      <span>0973.926.139</span>
+      <span>0862.398.558</span>
     </a>
   </Button>
     <Button
